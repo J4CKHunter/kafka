@@ -14,8 +14,7 @@ docker-compose up
 #### endpoint for resource "CustomMessage"
 
 <pre>
-     POST
-    - localhost:8080/api/v1/customMessage
+     POST - localhost:8080/api/v1/customMessage
 </pre>
 
 
